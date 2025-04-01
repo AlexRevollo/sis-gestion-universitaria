@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 01-04-2025 a las 02:52:57
+-- Tiempo de generación: 01-04-2025 a las 03:35:39
 -- Versión del servidor: 10.4.32-MariaDB
 -- Versión de PHP: 8.2.12
 
@@ -211,8 +211,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(2, 'alex huallpara', 'justohuallpara@gmail.com', NULL, '$2y$12$QfJssNpAxkobHmfGLzz51OOTTWFusAvvmqZ3v/OoDdKJ5AZ82Bymy', NULL, '2025-03-31 22:25:51', '2025-03-31 22:25:51'),
-(4, 'Melody Cespedes', 'melody@gmail.com', NULL, '$2y$12$aZtA.sWOseugJk2irriZreXhxb7.cbaIN6Kdi0H9SYZkY2eyznqhG', NULL, '2025-04-01 00:51:50', '2025-04-01 00:51:50');
+(2, 'alex huallpara', 'justohuallpara@gmail.com', NULL, '$2y$12$QfJssNpAxkobHmfGLzz51OOTTWFusAvvmqZ3v/OoDdKJ5AZ82Bymy', NULL, '2025-03-31 22:25:51', '2025-03-31 22:25:51');
 
 --
 -- Índices para tablas volcadas
